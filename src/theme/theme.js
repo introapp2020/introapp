@@ -8,10 +8,10 @@ const theme = createMuiTheme({
     },
   palette: {
     primary: {
-      main: '#e4dedf',
+      main: '#23232b',
     },
     secondary: {
-      main: '#212429',
+      main: '#e4dedf',
 
     },
     error: {
@@ -28,3 +28,4 @@ const theme = createMuiTheme({
 });
 
 export default theme;
+
