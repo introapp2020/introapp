@@ -2,13 +2,17 @@ import React from 'react'
 import Navbar from '../components/layouts/Navbar';
 
 
+const Home = () =>{
+  return(
+    <>
+      
+        <Navbar>
 
-const Home = () =>(
-  <div>
-    <Navbar>
-      <h1>Inicio</h1>
-    </Navbar>
-  </div>
-)
+        </Navbar>
+      
+    </>
+  )
+  
+}
 
 export default Home;
